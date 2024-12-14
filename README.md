@@ -25,7 +25,6 @@
 El presente proyecto es el cumplimiento del challenge creado por ALURA LATAM y ORACLE para que podamos llegar al siguiente nivel en nuestra formación como porgramadores. Es un programa que permite administrar productos añadiendo y eliminando productos segun sea necesario.
      
 **Pagina Web**
-https://geraldinsaavedra.github.io/Potafolio_1/
 
 ![pagina](https://github.com/GeraldinSaavedra/challengeAluraGeek/blob/55067db7b36a260fc7c961bf276e4a418a3356fd/imagen_1.png)
 
@@ -76,7 +75,8 @@ Este challenge es presentado por Geraldin Saavedra, estuadiante del Proyecto ONE
 
 ## Conclusión
 <p align="justify">
-Participar en el challenge ha sido una oportunidad invaluable para consolidar los conocimientos adquiridos durante los cursos de formación Front End para el diseño de páginas web. Este proceso no solo reforzó mis habilidades técnicas, sino que también me permitió aplicar de manera práctica todo lo aprendido, llevándome a nuevos niveles de comprensión y destreza. 
-La programación es un campo asombroso que abre puertas a nuevas posibilidades, permitiéndonos explorar y resolver problemas que antes parecían inalcanzables. Nos ayuda a desarrollar el pensamiento lógico, estimula la creatividad e impulsa la innovación, dándonos la oportunidad de transformar nuestras ideas en proyectos que pueden mejorar la ciencia y el día a día de las personas. Estoy muy agradecida por el Proyecto ONE de Oracle+Alura LATAM, que me brinda la oportunidad de formarme como programadora y disfrutar de esta experiencia enriquecedora.
+Participar en este challenge ha sido una experiencia sumamente enriquecedora, permitiéndome consolidar los conocimientos adquiridos en los cursos de formación Front End enfocados en el diseño de páginas web. Este proceso no solo me ayudó a fortalecer mis habilidades técnicas, sino que también me brindó la oportunidad de poner en práctica lo aprendido, alcanzando un mayor nivel de comprensión y habilidad.  
+La programación es un ámbito apasionante que abre un sinfín de posibilidades. Nos da la capacidad de enfrentar y solucionar problemas que antes parecían fuera de nuestro alcance, mientras desarrollamos el pensamiento lógico, fomentamos la creatividad y promovemos la innovación. Es una herramienta poderosa para convertir ideas en proyectos que impacten positivamente tanto en la ciencia como en la vida diaria de las personas.  
+Estoy profundamente agradecida con el Proyecto ONE de Oracle+Alura LATAM por esta oportunidad de crecer como programadora y disfrutar de una experiencia tan transformadora. Este desafío ha fortalecido mi pasión por la tecnología y mi determinación de seguir avanzando en este emocionante camino.  
 </p>
 ---
