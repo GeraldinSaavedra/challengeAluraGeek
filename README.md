@@ -60,7 +60,7 @@ El proyecto se encuentra finalizado, ya que se cumplió con todas las caracteris
 
 ### Adaptar a modo celular
 
-![demo4](https://github.com/GeraldinSaavedra/challengeAluraGeek/blob/55067db7b36a260fc7c961bf276e4a418a3356fd/imagen_1.png)
+![demo4](https://github.com/GeraldinSaavedra/challengeAluraGeek/blob/55067db7b36a260fc7c961bf276e4a418a3356fd/imagen_2.png)
 
 </p>
 ---
