@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Star Wars",
+      "price": 30,
+      "img": "../img/producto-1.png"
+    },
+    {
+      "id": "2",
+      "name": "Game Boy Classic",
+      "price": 60,
+      "img": "../img/producto-2.png"
+    },
+    {
+      "id": "f630",
+      "name": "jueguito",
+      "price": 20,
+      "img": "https://img.freepik.com/vector-gratis/juego-rayuela-diseno-plano-dibujado-mano_23-2149285959.jpg?semt=ais_hybrid"
+    }
+  ]
+}
